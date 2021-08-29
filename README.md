@@ -1,4 +1,4 @@
 # first-repo
-To store a variety of projects
+this is my first repo
 Akhil
 akhi49
